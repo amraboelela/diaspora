@@ -78,3 +78,7 @@ diaspora.iml
 
 # WebTranslateIt
 .wti
+
+xcuserdata/
+*.moved-aside
+*.xcuserstate

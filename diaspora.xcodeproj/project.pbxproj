@@ -1,0 +1,128 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		EDAD7A531FFDA726004B722F /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		EDAD7A541FFDA726004B722F /* Gemfile.lock */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile.lock; sourceTree = "<group>"; };
+		EDAD7A551FFDA726004B722F /* config */ = {isa = PBXFileReference; lastKnownFileType = folder; path = config; sourceTree = "<group>"; };
+		EDAD7A561FFDA726004B722F /* db */ = {isa = PBXFileReference; lastKnownFileType = folder; path = db; sourceTree = "<group>"; };
+		EDAD7A571FFDA727004B722F /* bin */ = {isa = PBXFileReference; lastKnownFileType = folder; path = bin; sourceTree = "<group>"; };
+		EDAD7A581FFDA727004B722F /* Guardfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Guardfile; sourceTree = "<group>"; };
+		EDAD7A591FFDA727004B722F /* redis-integration2.conf */ = {isa = PBXFileReference; lastKnownFileType = text; path = "redis-integration2.conf"; sourceTree = "<group>"; };
+		EDAD7A5A1FFDA727004B722F /* Gemfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
+		EDAD7A5B1FFDA727004B722F /* public */ = {isa = PBXFileReference; lastKnownFileType = folder; path = public; sourceTree = "<group>"; };
+		EDAD7A5C1FFDA727004B722F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		EDAD7A5D1FFDA727004B722F /* redis-integration1.conf */ = {isa = PBXFileReference; lastKnownFileType = text; path = "redis-integration1.conf"; sourceTree = "<group>"; };
+		EDAD7A5E1FFDA727004B722F /* FederationProcfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = FederationProcfile; sourceTree = "<group>"; };
+		EDAD7A5F1FFDA727004B722F /* CONTRIBUTING.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CONTRIBUTING.md; sourceTree = "<group>"; };
+		EDAD7A601FFDA727004B722F /* script */ = {isa = PBXFileReference; lastKnownFileType = folder; path = script; sourceTree = "<group>"; };
+		EDAD7A611FFDA727004B722F /* config.ru */ = {isa = PBXFileReference; lastKnownFileType = text; path = config.ru; sourceTree = "<group>"; };
+		EDAD7A621FFDA728004B722F /* AUTHORS */ = {isa = PBXFileReference; lastKnownFileType = text; path = AUTHORS; sourceTree = "<group>"; };
+		EDAD7A631FFDA728004B722F /* tmp */ = {isa = PBXFileReference; lastKnownFileType = folder; path = tmp; sourceTree = "<group>"; };
+		EDAD7A641FFDA728004B722F /* app */ = {isa = PBXFileReference; lastKnownFileType = folder; path = app; sourceTree = "<group>"; };
+		EDAD7A651FFDA728004B722F /* lib */ = {isa = PBXFileReference; lastKnownFileType = folder; path = lib; sourceTree = "<group>"; };
+		EDAD7A661FFDA728004B722F /* browserlist */ = {isa = PBXFileReference; lastKnownFileType = text; path = browserlist; sourceTree = "<group>"; };
+		EDAD7A671FFDA728004B722F /* vendor */ = {isa = PBXFileReference; lastKnownFileType = folder; path = vendor; sourceTree = "<group>"; };
+		EDAD7A681FFDA728004B722F /* CODE_OF_CONDUCT.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = CODE_OF_CONDUCT.md; sourceTree = "<group>"; };
+		EDAD7A691FFDA729004B722F /* Procfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Procfile; sourceTree = "<group>"; };
+		EDAD7A6A1FFDA729004B722F /* spec */ = {isa = PBXFileReference; lastKnownFileType = folder; path = spec; sourceTree = "<group>"; };
+		EDAD7A6B1FFDA729004B722F /* Rakefile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Rakefile; sourceTree = "<group>"; };
+		EDAD7A6C1FFDA729004B722F /* COPYRIGHT */ = {isa = PBXFileReference; lastKnownFileType = text; path = COPYRIGHT; sourceTree = "<group>"; };
+		EDAD7A6D1FFDA729004B722F /* Changelog.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Changelog.md; sourceTree = "<group>"; };
+		EDAD7A6E1FFDA72A004B722F /* features */ = {isa = PBXFileReference; lastKnownFileType = folder; path = features; sourceTree = "<group>"; };
+		EDAD7A6F1FFDA72A004B722F /* graphics */ = {isa = PBXFileReference; lastKnownFileType = folder; path = graphics; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EDAD7A4C1FFDA6FB004B722F = {
+			isa = PBXGroup;
+			children = (
+				EDAD7A641FFDA728004B722F /* app */,
+				EDAD7A621FFDA728004B722F /* AUTHORS */,
+				EDAD7A571FFDA727004B722F /* bin */,
+				EDAD7A661FFDA728004B722F /* browserlist */,
+				EDAD7A6D1FFDA729004B722F /* Changelog.md */,
+				EDAD7A681FFDA728004B722F /* CODE_OF_CONDUCT.md */,
+				EDAD7A551FFDA726004B722F /* config */,
+				EDAD7A611FFDA727004B722F /* config.ru */,
+				EDAD7A5F1FFDA727004B722F /* CONTRIBUTING.md */,
+				EDAD7A6C1FFDA729004B722F /* COPYRIGHT */,
+				EDAD7A561FFDA726004B722F /* db */,
+				EDAD7A6E1FFDA72A004B722F /* features */,
+				EDAD7A5E1FFDA727004B722F /* FederationProcfile */,
+				EDAD7A5A1FFDA727004B722F /* Gemfile */,
+				EDAD7A541FFDA726004B722F /* Gemfile.lock */,
+				EDAD7A6F1FFDA72A004B722F /* graphics */,
+				EDAD7A581FFDA727004B722F /* Guardfile */,
+				EDAD7A651FFDA728004B722F /* lib */,
+				EDAD7A531FFDA726004B722F /* LICENSE */,
+				EDAD7A691FFDA729004B722F /* Procfile */,
+				EDAD7A5B1FFDA727004B722F /* public */,
+				EDAD7A6B1FFDA729004B722F /* Rakefile */,
+				EDAD7A5C1FFDA727004B722F /* README.md */,
+				EDAD7A5D1FFDA727004B722F /* redis-integration1.conf */,
+				EDAD7A591FFDA727004B722F /* redis-integration2.conf */,
+				EDAD7A601FFDA727004B722F /* script */,
+				EDAD7A6A1FFDA729004B722F /* spec */,
+				EDAD7A631FFDA728004B722F /* tmp */,
+				EDAD7A671FFDA728004B722F /* vendor */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EDAD7A4D1FFDA6FB004B722F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+			};
+			buildConfigurationList = EDAD7A501FFDA6FB004B722F /* Build configuration list for PBXProject "diaspora" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EDAD7A4C1FFDA6FB004B722F;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EDAD7A511FFDA6FB004B722F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		EDAD7A521FFDA6FB004B722F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EDAD7A501FFDA6FB004B722F /* Build configuration list for PBXProject "diaspora" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDAD7A511FFDA6FB004B722F /* Debug */,
+				EDAD7A521FFDA6FB004B722F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EDAD7A4D1FFDA6FB004B722F /* Project object */;
+}
